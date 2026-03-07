@@ -20,11 +20,11 @@ The solution is developed in Python using a recursive approach to evaluate a gam
 ## 📸 Lab Evidence
 
 ### Algorithm Execution
-![Terminal Output](screenshots/output.png)
+![Terminal Output](output.png)
 *Caption: Final optimal value calculated by the pruned Minimax algorithm.*
 
 ### Code Logic Screenshot
-![Code Snippet](screenshots/code_logic.png)
+![Code Snippet](code_logic.png)
 *Caption: Implementation of the pruning conditions within the recursive calls.*
 
 ---
